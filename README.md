@@ -84,5 +84,11 @@ npm run seed
 5. Inicie a aplicação:
 
 ```bash
-npm start
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
 ```
