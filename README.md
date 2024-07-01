@@ -59,7 +59,7 @@ Desenvolver uma plataforma de cursos que forneça treinamento especializado em a
    - Certifique-se de ter o Docker instalado em sua máquina.
 
 ```bash
-git clone https://github.com/seuprojeto/serverlessminds.git
+git clone https://github.com/kleytonsolinho/serverlessminds.git
 ```
 
 2. Acesse a pasta do app:
